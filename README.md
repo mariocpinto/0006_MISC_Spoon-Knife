@@ -1,3 +1,6 @@
+This repository was created / forked as a practice exercise - part of the [GitHub Bootcamp](https://help.github.com/categories/bootcamp/). What follows in the original content of the README file.  
+\- Mario
+
 ### Well hello there!
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
